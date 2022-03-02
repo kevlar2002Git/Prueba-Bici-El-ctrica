@@ -1,0 +1,7 @@
+{
+  "name": "@wcd/kevlar2002git.lwc-l09pau8d-fork-l09q67jb",
+  "version": "0.0.0",
+  "scripts": {
+    "serve": "npx wcd-cli@latest serve 84aHmpzsBuehHPGIjajr --open"
+  }
+}
